@@ -1,0 +1,10 @@
+/*.iml
+/*.log*
+/.cache/
+/.idea/
+/.npm/
+/nbproject/
+/node_modules/
+
+.DS_Store
+thumbs.db
