@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'Europe';
+	src:url(fonts/EuropeExt-Bold.woff);
+	font-weight:bold;
+	font-style:normal;
+}
+@font-face{
+	font-family: 'Europe';
+	src:url(fonts/EuropeExt_Normal.otf);
+	font-weight:normal;
+	font-style:normal;
+}
